@@ -1,2 +1,3 @@
-# Ksp-Task6
+# Python
+
 This task is about python
